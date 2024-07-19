@@ -1,0 +1,11 @@
+{
+  "to": ["correodesti1@ejem.com", "correodesti2@ejem.com"],
+  "cc": ["correoejem@ejem.com"],
+  "bcc": ["correoejem@ejem.com"],
+  "subject": "Asunto de Correo",
+  "text": "Contenido del correo en formato texto",
+  "html (campo opcional)": "<h1> contenido del correo en formato HTML </h1>",
+  "attachments (campo opcional)": [
+        "C:ruta/a/tu/archivo/adjunto/ejemplo.txt",
+    ]
+}
